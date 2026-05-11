@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "sessions": {
+    "c53db0ced9d249e983188c7293da6ab6": [
+      {
+        "expertId": "FrontendDeveloper",
+        "name": "像素匠",
+        "profession": "前端开发工程师",
+        "avatarUrl": "https://acc-1258344699.cos.accelerate.myqcloud.com/workbuddy/experts/avatars/02-Engineering/FrontendDeveloper/FrontendDeveloper.png",
+        "promptUrl": "https://acc-1258344699.cos.accelerate.myqcloud.com/workbuddy/experts/experts/02-Engineering/FrontendDeveloper/FrontendDeveloper_zh.md",
+        "usedAt": 1778231001081,
+        "industryId": "11-ProfessionalServices"
+      }
+    ],
+    "7fe2116d196e46cdb90adabea1c6e922": [
+      {
+        "expertId": "BackendArchitect",
+        "name": "磐石石",
+        "profession": "后端架构师",
+        "avatarUrl": "https://acc-1258344699.cos.accelerate.myqcloud.com/workbuddy/experts/avatars/02-Engineering/BackendArchitect/BackendArchitect.png",
+        "promptUrl": "https://acc-1258344699.cos.accelerate.myqcloud.com/workbuddy/experts/experts/02-Engineering/BackendArchitect/BackendArchitect_zh.md",
+        "usedAt": 1778307228414,
+        "industryId": "all"
+      }
+    ],
+    "7cf57a3d43c54d1894443003918caf01": [
+      {
+        "expertId": "FrontendDeveloper",
+        "name": "像素匠",
+        "profession": "前端开发工程师",
+        "avatarUrl": "https://acc-1258344699.cos.accelerate.myqcloud.com/workbuddy/experts/avatars/02-Engineering/FrontendDeveloper/FrontendDeveloper.png",
+        "promptUrl": "https://acc-1258344699.cos.accelerate.myqcloud.com/workbuddy/experts/experts/02-Engineering/FrontendDeveloper/FrontendDeveloper_zh.md",
+        "usedAt": 1778309755442,
+        "industryId": "08-QualityAssurance"
+      },
+      {
+        "expertId": "BackendArchitect",
+        "name": "磐石石",
+        "profession": "后端架构师",
+        "avatarUrl": "https://acc-1258344699.cos.accelerate.myqcloud.com/workbuddy/experts/avatars/02-Engineering/BackendArchitect/BackendArchitect.png",
+        "promptUrl": "https://acc-1258344699.cos.accelerate.myqcloud.com/workbuddy/experts/experts/02-Engineering/BackendArchitect/BackendArchitect_zh.md",
+        "usedAt": 1778307228414,
+        "industryId": "all"
+      }
+    ]
+  },
+  "lastUpdated": 1778317898629
+}
